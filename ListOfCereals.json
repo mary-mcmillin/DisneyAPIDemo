@@ -1,0 +1,29 @@
+[
+  {
+    "id": 100,
+    "type": "cereal",
+    "name": "Lucky Charms",
+    "base": "oat",
+    "calories": 120.5,
+    "marshmallows": [
+      "hearts",
+      "stars",
+      "rainbows",
+      "clovers"
+    ]
+  },
+  {
+    "id": 200,
+    "type": "cereal",
+    "name": "Shredded Wheat",
+    "base": "wheat",
+    "calories": 100.5
+  },
+  {
+    "id": 300,
+    "type": "cereal",
+    "name": "Grape Nuts",
+    "base": "wheat",
+    "calories": 80.5
+  }
+]

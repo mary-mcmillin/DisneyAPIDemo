@@ -1,0 +1,8 @@
+{
+  "id": 100,
+  "type": "cereal",
+  "name"  : "Lucky Charms",
+  "base": "oat",
+  "calories"  : 120.5,
+  "marshmallows" : [ "hearts", "stars", "rainbows", "clovers", "horseshoes" ]
+}
